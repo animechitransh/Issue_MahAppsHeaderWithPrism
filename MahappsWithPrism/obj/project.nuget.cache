@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WvzFxjOlcXeDOV+w8+RMTkaaONY4ezjZv8CAi50YE8Yi9q+tMvzkDjyPUC1mJk+ctpy14FcvZnVd5QY7nHW5Ig==",
+  "success": true,
+  "projectFilePath": "E:\\Git\\Issue_MahAppsHeaderWithPrism\\Issue_MahAppsHeaderWithPrism\\MahappsWithPrism\\MahappsWithPrism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chitr\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\chitr\\.nuget\\packages\\dryioc.dll\\4.5.0\\dryioc.dll.4.5.0.nupkg.sha512",
+    "C:\\Users\\chitr\\.nuget\\packages\\mahapps.metro\\2.4.3\\mahapps.metro.2.4.3.nupkg.sha512",
+    "C:\\Users\\chitr\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\chitr\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\chitr\\.nuget\\packages\\prism.dryioc\\8.0.0.1909\\prism.dryioc.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\chitr\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512"
+  ],
+  "logs": []
+}

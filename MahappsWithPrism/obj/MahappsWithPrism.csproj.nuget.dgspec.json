@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Git\\Issue_MahAppsHeaderWithPrism\\Issue_MahAppsHeaderWithPrism\\MahappsWithPrism\\MahappsWithPrism.csproj": {}
+  },
+  "projects": {
+    "E:\\Git\\Issue_MahAppsHeaderWithPrism\\Issue_MahAppsHeaderWithPrism\\MahappsWithPrism\\MahappsWithPrism.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Git\\Issue_MahAppsHeaderWithPrism\\Issue_MahAppsHeaderWithPrism\\MahappsWithPrism\\MahappsWithPrism.csproj",
+        "projectName": "MahappsWithPrism",
+        "projectPath": "E:\\Git\\Issue_MahAppsHeaderWithPrism\\Issue_MahAppsHeaderWithPrism\\MahappsWithPrism\\MahappsWithPrism.csproj",
+        "packagesPath": "C:\\Users\\chitr\\.nuget\\packages\\",
+        "outputPath": "E:\\Git\\Issue_MahAppsHeaderWithPrism\\Issue_MahAppsHeaderWithPrism\\MahappsWithPrism\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "d:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MahApps.Metro": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            },
+            "Prism.DryIoc": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
